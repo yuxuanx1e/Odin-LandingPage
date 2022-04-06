@@ -112,9 +112,10 @@ button {
 .main-3>.container>p{
     font-size:36px;
     font-weight: 100;
+    line-height: 120%;
     font-style: italic;
     color:#1F2937;
-    width:900px;
+    width:800px;
 }
 
 .main-3>.container>.author{
